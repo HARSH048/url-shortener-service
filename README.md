@@ -213,10 +213,10 @@ Cache invalidation occurs automatically when:
 ```env
 PORT=5000
 MONGODB_URI=mongodb://localhost:27017/url-shortener
-JWT_SECRET=your_jwt_secret
+JWT_SECRET=JWT_SECRET
 REDIS_HOST=localhost
 REDIS_PORT=6379
-REDIS_PASSWORD=your_redis_password
+REDIS_PASSWORD=REDIS_PASSWORD
 ```
 
 ## Data Collection
